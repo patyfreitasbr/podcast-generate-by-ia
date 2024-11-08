@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://on.soundcloud.com/viMJy2LGJLjfjdND9" target="_blank">CLIQUE AQUI PARA OUVIR</a>
+  <a href="https://on.soundcloud.com/viMJy2LGJLjfjdND9">CLIQUE AQUI PARA OUVIR</a>
 </p>
+*para abriri sem fechar o gitHub segure ctrol e clique sobre o link acima*
 
 
 
@@ -21,14 +22,15 @@ Este projeto foi desenvolvido com o objetivo de gerar um podcast utilizando ferr
 
 - [Dzine](ttps://www.dzine.ai/?via=paty) 
 - [FlexClip](https://chat.openai.com/) 
-- [ElevenLabs](https://beta.elevenlabs.io/)
+- [ChatGPT](https://chatgpt.com/)
+
 
 
 ## ✨ Como foi feito 
 
 - Imagem foi gerada [Dzine](https://www.dzine.ai/?via=paty) 
 - Texto em audio [FlexClip](https://shrsl.com/4e1t8)  
-- Roteiro gerado e nome do podcast via chatGPT
+- Roteiro gerado e nome do podcast via [chatGPT](https://chatgpt.com/)
 
 ## 👾Prompt usado para criação da imagem
 
