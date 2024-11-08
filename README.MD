@@ -22,7 +22,7 @@ Este projeto foi desenvolvido com o objetivo de gerar um podcast utilizando ferr
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [Dzine](ttps://www.dzine.ai/?via=paty) 
+- [Dzine](https://www.dzine.ai/?via=paty) 
 - [FlexClip](https://chat.openai.com/) 
 - [ChatGPT](https://chatgpt.com/)
 
