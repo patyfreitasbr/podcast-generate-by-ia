@@ -12,12 +12,10 @@
     preview do podcast
 </p>
 
+<p align="center">
+<a href="https://on.soundcloud.com/viMJy2LGJLjfjdND9" target="_blank">CLIQUE AQUI PARA OUVIR</a></p>
 
-<div align="center">
-<audio controls>
-  <source src="https://on.soundcloud.com/viMJy2LGJLjfjdND9" type="audio/mp3">
-  Seu navegador não suporta o elemento de áudio.
-</audio></div>
+
 
 
 ## 🤖 Sobre
