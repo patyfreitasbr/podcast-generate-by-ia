@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://on.soundcloud.com/viMJy2LGJLjfjdND9">CLIQUE AQUI PARA OUVIR</a><br>
-*para abrir sem fechar o gitHub segure ctrl e clique sobre o link acima*
+  <a href="https://on.soundcloud.com/viMJy2LGJLjfjdND9">CLIQUE AQUI PARA OUVIR</a>
+<br>
+<i>para abrir sem fechar o gitHub segure ctrl e clique sobre o link acima </i>
 </p>
 
 
@@ -53,7 +54,7 @@ Este projeto foi desenvolvido com o objetivo de gerar um podcast utilizando ferr
 
       ```
       Fala, pessoal! 
-      Bem-vindos ao DigiVerse Cast! 
+      Bem-vindos ao Creatoes's IA Cast! 
       Hoje vamos explorar aquele universo que, se fosse filme de ficção científica, já teria vencido o Oscar: a Inteligência Artificial Generativa! 
       E não estamos falando de robôs de filmes antigos, mas sim de ferramentas incríveis, que criam conteúdo em segundos e estão cada vez mais acessíveis. 
       Sabe aquele clique mágico que transforma uma ideia em uma arte ou um texto de qualidade? 
@@ -68,7 +69,7 @@ Este projeto foi desenvolvido com o objetivo de gerar um podcast utilizando ferr
       Ferramentas como Flexclip que além de ser uma ferramenta de edição de  video muito completa, tem muitos recursos com Inlteligencia artificial que ajuda o criador de conteúso a agilizar seu travalho e ser muito masi criativo. Com ela você pode criar imagens , vídeos audios e até roteiros tudo usso com apenas alguns comando para que a Inteligencia Artifical trabalhe para você, na vresão gratuita já vem muitos recursos especialmente pra quem tá começando. 
       Ou seja, você pode experimentar o poder da IA e turbinar seu conteúdo sem gastar um centavo!"
       Então, pessola, por hoje é só! 
-      Eu sou a Paty Freitas e esse foi o DigiVerse Cast dessa semana! 
+      Eu sou a Paty Freitas e esse foi o Creatoes's IA dessa semana! 
       Quer saber mais sobre esse projeto?
       Acesse nosso git hub @patyfreitasbr
       Quer saber mais sobre tecnologia e descobrir como monetizar seu conteúdo no digital? 
