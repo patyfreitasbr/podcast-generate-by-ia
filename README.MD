@@ -6,14 +6,9 @@
 <img src="./materiais-criados-com-ia/IAquest.png" width="300"/>
 </p>
 
-</p>
-
 <p align="center">
-    preview do podcast
+  <a href="https://on.soundcloud.com/viMJy2LGJLjfjdND9" target="_blank">CLIQUE AQUI PARA OUVIR</a>
 </p>
-
-<p align="center">
-<a href="https://on.soundcloud.com/viMJy2LGJLjfjdND9" target="_blank">CLIQUE AQUI PARA OUVIR</a></p>
 
 
 
