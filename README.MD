@@ -15,7 +15,7 @@
 
 <div align="center">
 <audio controls>
-  <source src="materiais-criados-com-ia/CreatorsIA-cast-by_@patyfreitasbr" type="audio/mpeg">
+  <source src="https://on.soundcloud.com/viMJy2LGJLjfjdND9" type="audio/mp3">
   Seu navegador não suporta o elemento de áudio.
 </audio></div>
 
@@ -35,7 +35,7 @@ Este projeto foi desenvolvido com o objetivo de gerar um podcast utilizando ferr
 
 - Imagem foi gerada [Dzine](https://www.dzine.ai/?via=paty) 
 - Texto em audio [FlexClip](https://shrsl.com/4e1t8)  
-- Roteiro gerado via chatGPT
+- Roteiro gerado e nome do podcast via chatGPT
 
 ## 👾Prompt usado para criação da imagem
 
