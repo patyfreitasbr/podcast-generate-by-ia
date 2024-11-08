@@ -8,8 +8,9 @@
 
 <p align="center">
   <a href="https://on.soundcloud.com/viMJy2LGJLjfjdND9">CLIQUE AQUI PARA OUVIR</a>
+*para abrir sem fechar o gitHub segure ctrl e clique sobre o link acima*
 </p>
-*para abriri sem fechar o gitHub segure ctrol e clique sobre o link acima*
+
 
 
 
