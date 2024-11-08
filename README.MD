@@ -1,6 +1,6 @@
 # Podcast gerado por I.A.s
 
- • [Demonstração](#demostração) • [Sobre](#sobre)• [Tecnologias Utilizadas](#tecnologias-utilizadas) • [Como foi feito](#como-foi-feito) • [Prompt usado para criação da imagem](#prompt-usado-para-criação-da-iamgem) • [exto gerado pela IA](#texto-gerado-pela-ia) • [Personalização](#personalizacao) • [Estrutura de Pastas](#-estrutura-de-pastas) • [Licença](#licenca) • [Referências](#referências) • [Contato](#contato)
+ • [Demonstração](#demostração) • [Sobre](#sobre)• [Tecnologias Utilizadas](#tecnologias-utilizadas) • [Como foi feito](#como-foi-feito) • [Prompt usado para criação da imagem](#prompt-usado-para-criação-da-iamgem) • [Texto gerado pela IA](#texto-gerado-pela-ia) • [Personalização](#personalizacao) • [Estrutura de Pastas](#-estrutura-de-pastas) • [Licença](#licenca) • [Referências](#referências) • [Contato](#contato)
 
 <p align="center">
 <img src="./materiais-criados-com-ia/IAquest.png" width="300"/>
